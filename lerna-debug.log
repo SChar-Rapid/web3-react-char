@@ -1,0 +1,13 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   scope: '@web3-react/torus',
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0': '/Users/charvai/Personal/PROJECT/RAPID_INNOVATION/web3-react/node_modules/.bin/lerna',
+0 silly argv   pkg: '@toruslabs/torus-embe'
+0 silly argv }
+1 notice cli v4.0.0
+2 verbose rootPath /Users/charvai/Personal/PROJECT/RAPID_INNOVATION/web3-react
+3 info versioning independent
+4 error HttpErrorGeneral: 404 Not Found - GET https://registry.yarnpkg.com/@toruslabs%2ftorus-embe - Not found
+4 error     at /Users/charvai/Personal/PROJECT/RAPID_INNOVATION/web3-react/node_modules/npm-registry-fetch/check-response.js:95:15
