@@ -1,9 +1,18 @@
 {
 	"private": true,
 	"name": "web3-react-char",
+	"author": "Char_Bhai",
 	"engines": {
 		"node": "^14 || ^16"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SChar-Rapid/web3-react-char.git"
+	},
+	"bugs": {
+		"url": "https://github.com/SChar-Rapid/web3-react-char/issues"
+	},
+	"homepage": "https://github.com/SChar-Rapid/web3-react-char",
 	"scripts": {
 		"bootstrap": "lerna bootstrap",
 		"clean": "lerna clean --yes",
